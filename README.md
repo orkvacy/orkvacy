@@ -59,9 +59,8 @@ I am a Computer Science who works at the intersection of **data analysis, financ
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **XAUUSD Gold Analysis** | OOP pipeline for gold-price analysis (DataLoader / DataPreprocessor / GoldAnalyzer) | Python, Jupyter, Pandas |
-| **Tracer Study SMAN 5** | Survey platform + statistical analysis (Wilcoxon, N-Gain, SUS); published in Jurnal Dharma (Sinta 5) | Statistics, Web |
 | **e-Surat Desa Sangkima** | Village letter-administration system: PDF letter generation, QR verification, JWT auth, email | Next.js, TypeScript, Drizzle, MySQL |
-| **Portal Alumni SMAN 5** | Interactive map of alumni-to-university distribution, admin CRUD, bulk import/export, geocoding | Laravel, MySQL, Leaflet |
+| **Tracer Study SMAN 5** | Interactive map of alumni-to-university distribution, admin CRUD, bulk import/export, geocoding | Laravel, MySQL, Leaflet |
 | **Hevy PBO** | Full-stack workout tracker with SOLID architecture | Java 21, Spring Boot, MySQL, Tailwind |
 
 ---
