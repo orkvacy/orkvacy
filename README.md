@@ -15,10 +15,10 @@
 
 ## About
 
-I am a Computer Science who works at the intersection of **data analysis, financial markets, and full-stack engineering**. I turn messy data into decisions and ship the tools that act on them.
+I am a Computer Science student and developer blending full-stack engineering with a strong passion for data analysis. I enjoy exploring complex datasets—particularly within financial instruments—and building the robust backend systems that process them.
 
-- Focus: data pipelines, statistical analysis, and financial/market analysis (forex, gold, Indonesian instruments)
-- Also build production web and backend systems end to end
+- Focus: Data pipelines, statistical analysis, and exploring financial market data (forex, gold, etc.).
+- Engineering: End-to-end web and backend system development.
 - Comfortable across Python, the JavaScript/TypeScript stack, PHP/Laravel, and Java
 
 ---
