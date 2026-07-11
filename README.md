@@ -6,20 +6,19 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e24b4a&height=180&section=header&text=orkvacy&fontColor=ffffff&fontSize=56&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-</a>
-
 </div>
 
 ---
 
 ## About
 
-I am a Computer Science student and developer blending full-stack engineering with a strong passion for data analysis. I enjoy exploring complex datasets—particularly within financial instruments—and building the robust backend systems that process them.
+**Data analyst with a full-stack engineering background** I don't just analyze data, I understand (and build) the systems that produce it.
 
-- Focus: Data pipelines, statistical analysis, and exploring financial market data (forex, gold, etc.).
-- Engineering: End-to-end web and backend system development.
-- Comfortable across Python, the JavaScript/TypeScript stack, PHP/Laravel, and Java
+I turn raw datasets into findings people can act on: exploratory analysis and statistics in Python, complex multi-table SQL, and clear visual storytelling. My engineering side means I've seen how messy production data really gets I've designed the schemas, built the pipelines, and shipped the apps that generate it.
+
+- **Analysis:** financial market data (forex, gold), business & operational datasets, statistical exploration
+- **Data engineering side:** SQL & data modeling (MySQL), pipelines, end-to-end backend systems
+- **Comfortable across** Python, TypeScript/JavaScript, PHP/Laravel, and Java — currently completing a Computer Science degree
 
 ---
 
@@ -32,6 +31,7 @@ I am a Computer Science student and developer blending full-stack engineering wi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL%20%2F%20MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Web & Backend**
 
@@ -56,11 +56,13 @@ I am a Computer Science student and developer blending full-stack engineering wi
 
 ## Featured Projects
 
+<!-- TODO: add "E-commerce Revenue & Funnel Analysis (Olist)" as the first row once it ships -->
+
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **XAUUSD Gold Analysis** | OOP pipeline for gold-price analysis (DataLoader / DataPreprocessor / GoldAnalyzer) | Python, Jupyter, Pandas |
-| **e-Surat Desa Sangkima** | Village letter-administration system: PDF letter generation, QR verification, JWT auth, email | Next.js, TypeScript, Drizzle, MySQL |
-| **Tracer Study SMAN 5** | Interactive map of alumni-to-university distribution, admin CRUD, bulk import/export, geocoding | Laravel, MySQL, Leaflet |
+| **XAUUSD Gold Analysis** | Statistical analysis of gold-price behavior — volatility patterns, session breakdowns — built as a reusable OOP pipeline (DataLoader / Preprocessor / Analyzer) | Python, Jupyter, Pandas |
+| **Tracer Study SMAN 5** | Geospatial data visualization: interactive map of alumni-to-university distribution with geocoding, bulk import/export, and an admin data-management layer | Laravel, MySQL, Leaflet |
+| **e-Surat Desa Sangkima** | Production government service platform I designed the data model for — two-level approval workflow, PDF generation, QR verification, JWT auth | Next.js, TypeScript, Drizzle, MySQL |
 | **Hevy PBO** | Full-stack workout tracker with SOLID architecture | Java 21, Spring Boot, MySQL, Tailwind |
 
 ---
