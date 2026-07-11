@@ -62,7 +62,8 @@ I turn raw datasets into findings people can act on: exploratory analysis and st
 | --- | --- | --- |
 | **XAUUSD Gold Analysis** | Statistical analysis of gold-price behavior — volatility patterns, session breakdowns — built as a reusable OOP pipeline (DataLoader / Preprocessor / Analyzer) | Python, Jupyter, Pandas |
 | **Tracer Study SMAN 5** | Geospatial data visualization: interactive map of alumni-to-university distribution with geocoding, bulk import/export, and an admin data-management layer | Laravel, MySQL, Leaflet |
-| **e-Surat Desa Sangkima** | Production government service platform I designed the data model for — two-level approval workflow, PDF generation, QR verification, JWT auth | Next.js, TypeScript, Drizzle, MySQL |
+| **Desa Sangkima - Public Portal & RT Census** | Public village portal + admin CMS, featuring an **RT census module** that digitizes a monthly Excel workflow into validated field data collection - ~240 demographic & village-asset metrics per neighborhood, session-locked archives auto-feeding public statistics dashboards | Next.js 16, TypeScript, Zod, MySQL |
+| **Desa Sangkima - e-Surat** | Village letter-service system on a 17-table MySQL schema I designed: request → two-level approval workflow, PDF generation, QR letter verification, audit trail, email OTP onboarding, Swagger-documented REST API | Next.js 16, TypeScript, Drizzle, MySQL |
 | **Hevy PBO** | Full-stack workout tracker with SOLID architecture | Java 21, Spring Boot, MySQL, Tailwind |
 
 ---
