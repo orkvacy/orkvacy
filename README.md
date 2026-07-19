@@ -16,7 +16,7 @@
 
 I turn raw datasets into findings people can act on: exploratory analysis and statistics in Python, complex multi-table SQL, and clear visual storytelling. My engineering side means I've seen how messy production data really gets I've designed the schemas, built the pipelines, and shipped the apps that generate it.
 
-- **Analysis:** financial market data (forex, gold), business & operational datasets, statistical exploration
+- **Analysis:** financial market data, business & operational datasets, statistical exploration
 - **Data engineering side:** SQL & data modeling (MySQL), pipelines, end-to-end backend systems
 - **Comfortable across** Python, TypeScript/JavaScript, PHP/Laravel, and Java — currently completing a Computer Science degree
 
