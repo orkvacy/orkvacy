@@ -12,13 +12,13 @@
 
 ## About
 
-**Data analyst with a full-stack engineering background** I don't just analyze data, I understand (and build) the systems that produce it.
+**Data analyst with a full-stack engineering background.** I analyze data, and I also build the systems that produce it.
 
-I turn raw datasets into findings people can act on: exploratory analysis and statistics in Python, complex multi-table SQL, and clear visual storytelling. My engineering side means I've seen how messy production data really gets I've designed the schemas, built the pipelines, and shipped the apps that generate it.
+I turn raw datasets into findings people can act on: exploratory analysis and statistics in Python, multi-table SQL, and clear visual storytelling. The engineering side means I have seen how messy production data really gets, because I designed the schemas, built the pipelines, and shipped the apps that generate it.
 
-- **Analysis:** financial market data, business & operational datasets, statistical exploration
-- **Data engineering side:** SQL & data modeling (MySQL), pipelines, end-to-end backend systems
-- **Comfortable across** Python, TypeScript/JavaScript, PHP/Laravel, and Java — currently completing a Computer Science degree
+- **Analysis:** financial market data, business and operational datasets, statistical exploration
+- **Data engineering side:** SQL and data modeling (MySQL), pipelines, end-to-end backend systems
+- **Comfortable across** Python, TypeScript/JavaScript, Go, PHP/Laravel, and Java
 
 ---
 
@@ -39,6 +39,7 @@ I turn raw datasets into findings people can act on: exploratory analysis and st
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -48,7 +49,9 @@ I turn raw datasets into findings people can act on: exploratory analysis and st
 **Data Stores & Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
@@ -60,10 +63,12 @@ I turn raw datasets into findings people can act on: exploratory analysis and st
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **XAUUSD Gold Analysis** | Statistical analysis of gold-price behavior — volatility patterns, session breakdowns — built as a reusable OOP pipeline (DataLoader / Preprocessor / Analyzer) | Python, Jupyter, Pandas |
+| **XAUUSD Gold Analysis** | Statistical analysis of gold-price behavior, covering volatility patterns and session breakdowns, built as a reusable OOP pipeline (DataLoader / Preprocessor / Analyzer) | Python, Jupyter, Pandas |
 | **Tracer Study SMAN 5** | Geospatial data visualization: interactive map of alumni-to-university distribution with geocoding, bulk import/export, and an admin data-management layer | Laravel, MySQL, Leaflet |
-| **Desa Sangkima - Public Portal & RT Census** | Public village portal + admin CMS, featuring an **RT census module** that digitizes a monthly Excel workflow into validated field data collection - ~240 demographic & village-asset metrics per neighborhood, session-locked archives auto-feeding public statistics dashboards | Next.js 16, TypeScript, Zod, MySQL |
-| **Desa Sangkima - e-Surat** | Village letter-service system on a 17-table MySQL schema I designed: request → two-level approval workflow, PDF generation, QR letter verification, audit trail, email OTP onboarding, Swagger-documented REST API | Next.js 16, TypeScript, Drizzle, MySQL |
+| **[ASCII Web](https://ascii.my.id)** | Replaced a workflow spread across spreadsheets, Classroom, and paper forms with one account-based portal: schedules, modules, assignments, announcements, project showcase, plus online request and approval flows. Type-safe API with generated OpenAPI schemas, rate limiting, and route-level access control | TanStack Start, React 19, oRPC, Drizzle, Turso |
+| **Desa Sangkima - Public Portal & RT Census** | Public village portal + admin CMS, featuring an **RT census module** that digitizes a monthly Excel workflow into validated field data collection: ~240 demographic and village-asset metrics per neighborhood, session-locked archives auto-feeding public statistics dashboards | Next.js 16, TypeScript, Zod, MySQL |
+| **Desa Sangkima - e-Surat** | Village letter-service system on a 17-table MySQL schema I designed: request, two-level approval workflow, PDF generation, QR letter verification, audit trail, email OTP onboarding, Swagger-documented REST API | Next.js 16, TypeScript, Drizzle, MySQL |
+| **Looping Game** | Game for teaching loops: players read a `for` pattern, including nested loops, then walk a grid along the path the code describes. Admin CMS with a visual path editor, so new levels are drawn on the grid instead of written in code. Go binary embeds the built frontend and ships as one Docker service | React, TypeScript, Go, SQLite, Docker |
 | **Hevy PBO** | Full-stack workout tracker with SOLID architecture | Java 21, Spring Boot, MySQL, Tailwind |
 
 ---
