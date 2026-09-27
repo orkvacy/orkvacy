@@ -1,0 +1,39 @@
+# 3D contribution calendar for the GitHub profile README
+# Docs: https://github.com/yoshi389111/github-profile-3d-contrib
+# Output: profile-3d-contrib/*.svg (README uses profile-night-rainbow.svg)
+
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    # 03:00 WITA (Asia/Makassar) == 19:00 UTC
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          # Default token only counts PUBLIC contributions.
+          # To include private repos: create a classic PAT (scopes: repo, read:user),
+          # save it as a repo secret named GH_PAT, and swap the line below for:
+          # GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "chore: update 3D contribution graph"; then
+            git push
+          fi
