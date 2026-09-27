@@ -55,7 +55,7 @@ Residents request official letters online. Requests go through two levels of app
 <tr>
 <td width="50%" valign="top">
 
-### Looping Game
+### [Looping Game](http://loopingquiz.ascii.web.id/)
 
 A game for practicing loops. You read a `for` loop (sometimes nested) and walk the grid the way the code says. Levels are drawn in an admin editor. The Go backend serves the frontend, so it runs as a single Docker container.
 
