@@ -112,8 +112,8 @@ Also: [XAUUSD gold price analysis](https://github.com/orkvacy/forex-analyst-oop)
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/orkvacy/orkvacy/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+<img width="100%" src="https://raw.githubusercontent.com/orkvacy/orkvacy/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
 
-<img src="https://streak-stats.demolab.com/?user=orkvacy&theme=tokyonight&hide_border=true&background=1a1b27&ring=e24b4a&fire=e24b4a&currStreakLabel=e24b4a" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=orkvacy&theme=tokyonight&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub streak" />
 
 </div>
