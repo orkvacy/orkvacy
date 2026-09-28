@@ -11,7 +11,7 @@
             Spring Boot
 <b>Database:</b>   MySQL, SQLite, PostgreSQL
 <b>Learning:</b>   Flutter, Dart
-<b>Site:</b>       <a href="https://ascii.my.id">ascii.my.id</a>
+<b>Site:</b>       <a href="https://ascii.web.id">ascii.web.id</a>
 <b>Email:</b>      <a href="mailto:nabilrahmatullahhhh@gmail.com">nabilrahmatullahhhh@gmail.com</a>
 <b>Discord:</b>    krotago
 <b>LinkedIn:</b>   <a href="https://www.linkedin.com/in/muhammad-nabil-rahmatullah-6255451a1/">muhammad-nabil-rahmatullah</a>
@@ -28,7 +28,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### [ASCII Web](https://ascii.my.id)
+### [ASCII Web](https://ascii.web.id)
 
 Website for Lab ASCII. Before this, schedules, modules, assignments, and requests were spread across spreadsheets, Google Classroom, and paper forms. Now they're in one place with student accounts.
 
